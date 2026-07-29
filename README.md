@@ -2,6 +2,6 @@
 - 👀 I’m interested in Front-end Web Development.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to collaborate on open-source projects.
-- 🔍 Take a look at my work on [Frontend Mentor](https://www.frontendmentor.io/profile/ChaminduD)
-- 💼 My Portfolio: https://chamindud.github.io/my-portfolio/
+- 🔍 Take a look at my work on [Frontend Mentor](https://www.frontendmentor.io/profile/chmndu)
+- 💼 My Portfolio: https://chmndu.github.io/my-portfolio/
 - 📫 How to reach me: chamindud.dahanayaka@gmail.com
