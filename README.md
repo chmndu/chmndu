@@ -12,6 +12,6 @@ I build thoughtful, responsive digital products for the web, with a focus on cle
 
 ### Find me
 
-- 🌐 [Portfolio](https://chmndu.vercel.app/)
+- 🌐 [chmndu — Portfolio](https://chmndu.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/chamindudahanayaka/)
 - 📫 [Email](mailto:chamindud.dahanayaka@gmail.com)
